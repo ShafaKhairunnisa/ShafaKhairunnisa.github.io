@@ -212,3 +212,11 @@ div p{
 	background-color: chocolate;
 	letter-spacing: 3px;
 }
+img.kanan {
+	float: right;
+	margin: 5px;
+	padding-top: 40px;
+	padding-bottom: 50px;
+	padding-left: 40px;
+	padding-left: 40px;
+}
