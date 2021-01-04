@@ -245,22 +245,6 @@ img.kiri {
 	padding-bottom: 5px;
 	padding-right: 10px;
 }
-@media (max-width: 880px) {
-	body, footer, div p, .nav, .button, .container,main{
-	    display: block;
-		width: 100%;
-		margin-bottom: 40px;
-		text-align: center;
-	}
-}
-@media (max-width: 880px) {
-	table{
-	    display: inline;
-		width: 100%;
-		margin-bottom: 40px;
-		text-align: justify;
-	}
-}
 .footer-distributed .footer-icons a{
 	display: inline-block;
 	width: 35px;
